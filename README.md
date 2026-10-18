@@ -22,4 +22,4 @@ Aplikasi **Mengenal Negara dan Bendera ASEAN** berbasis Android yang dikembangka
 
 | Layar 1 (Daftar Negara) | Layar 2 (Detail Bendera) |
 | :---: | :---: |
-| ![Layar 1](screenshots/screen1.jpeg) | ![Layar 2](screenshots/screen2.jpeg) |
+| ![Layar 1](Screen1.jpeg) | ![Layar 2](Screen2.jpeg) |
